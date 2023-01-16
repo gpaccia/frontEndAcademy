@@ -1,0 +1,43 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+#titulo {
+    text-align: center;
+}
+
+#sheev {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#plagueis {
+    height: 100px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: uppercase;
+    background-color: gray;
+}
+
+#referencia {
+    display: none;
+}
+
+.precuelas {
+    background-color: aquamarine;
+}
+
+.triloorig {
+    background-color: aqua
+}
+
+.secuelas {
+    background-color: blueviolet
+}
